@@ -119,15 +119,15 @@ params:
           url: https://github.com/jaganreddyy
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/jaganreddyyeruva/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+     # customIcons:
+        #- icon: /fav.png
+         # url: "https://example.com"
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/Jagan-Reddy-Yeruva-02.jpg"
+    image: "/images/IMG_9387.heic"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
