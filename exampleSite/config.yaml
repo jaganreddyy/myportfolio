@@ -48,7 +48,7 @@ params:
   title: "Jagan's Work Portfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  #favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -106,7 +106,7 @@ params:
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
     content: "Graduate Student (2023)| University of Washington - Foster school of Business | Information systems"
-    image: /images/Jagan-Reddy-Yeruva-02.jpg
+    image: /images/5C216F0C-817D-4AA6-A9E7-20D82825A80B.JPG
 
     button:
       enable: true
