@@ -105,13 +105,13 @@ params:
     intro: "Hi, I am"
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
-    content: "Graduate Student | University of Washington - Foster school of Business (2023) | Information systems"
+    content: "Graduate Student (2023)| University of Washington - Foster school of Business | Information systems"
     image: /images/Jagan-Reddy-Yeruva-02.jpg
 
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/Jagan Reddy_Resume(BA:DA:BIE).pdf"
       download: true 
     socialLinks:
       fontAwesomeIcons:
