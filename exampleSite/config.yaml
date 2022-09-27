@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://jaganreddy.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Jagan Reddy's Portfolio"
 theme: hugo-profile
 
 Paginate: 3
@@ -102,10 +102,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi I am"
+    intro: "Hi, I am"
     title: "Jagan Reddy"
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I tell stories through Data. "
+    content: "Graduate Student | University of Washington - Foster school of Business (2023) | Information systems"
     image: /images/hero.svg
     button:
       enable: true
