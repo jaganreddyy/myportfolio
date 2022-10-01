@@ -45,7 +45,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Jagan's Work Portfolio"
+  title: "My Work Portfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   #favicon: "/fav.png"
@@ -105,7 +105,7 @@ params:
     intro: "Hi, I am"
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
-    content: "Graduate Student (2023)| University of Washington - Foster school of Business| Information systems.<br><br><br><br>.        “I want to help others make right, data-driven decisions”"
+    content: "Graduate Student (2023)| University of Washington - Foster school of Business| Information systems.<br><br> <center>“I want to help others make right, data-driven decisions”</center>"
     image: /images/5C216F0C-817D-4AA6-A9E7-20D82825A80B.JPG
 
     button:
@@ -127,11 +127,12 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/IMG_9387.heic"
+    image: "/images/Jagan-Reddy-Yeruva-02.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      <p>To introduce myself-I would characterize myself as an ambitious and adventurous person. It is probably this personality trait in me that sparked my passion in flying, and I worked hard to land myself an amazing opportunity to train as a commercial pilot. But when covid struck, life had other plans for me, and I found myself working as a 'Business Analyst' in a freight-forwarding firm in Hyderabad.</p> 
+      <p>I am a currently pursuing my Master’s in Information Systems at University of Washington - Foster School of Business. I have a background in Computer Science with a particular and strong interest in the intersection of technology and business. My professional aspiration is to work in a data-driven field, possibly as a data/business intelligence analyst, while also exploring opportunities in cybersecurity and tech consultancy.</p> 
+      <p>A few interesting things about me. I am an avid gamer and athlete. I enjoy playing competitive strategy games and love playing racquet sports. </p>
+      
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
