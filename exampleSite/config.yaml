@@ -139,12 +139,12 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Advanced SQL"
+        - "Python"
+        - "Tableau"
+        - "Adobe Analytics"
+        - "Statistics"
+        - "Advanced Excel"
 
   # Experience
   experience:
