@@ -105,7 +105,17 @@ params:
     intro: "Hi, I am"
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
-    content: "Graduate Student| University of Washington - Foster school of Business| Information systems."<br>
+    content: "Graduate Student| University of Washington| Information systems."
+    <br>
+    content: "I want to help others make right, data-driven decisions”
+    <br>
+    content: "Take a look into some of the things I love working on:
+              Data/Business Analytics
+              Data Importing & Cleaning
+              Data Manipulation and Visualization
+              Exploratory Analysis
+              Statistical Experimentation" </p>
+              
     image: /images/5C216F0C-817D-4AA6-A9E7-20D82825A80B.JPG
 
     button:
@@ -123,8 +133,6 @@ params:
         #- icon: /fav.png
          # url: "https://example.com"
          
-         content: <center>"I want to help others make right, data-driven decisions”</center>
-
   # About
   about:
     enable: true
