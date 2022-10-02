@@ -105,16 +105,17 @@ params:
     intro: "Hi, I am"
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
-    content: "Graduate Student| University of Washington| Information systems."
-    <br>
-    content: "I want to help others make right, data-driven decisions”
-    <br>
-    content: "Take a look into some of the things I love working on:
-              Data/Business Analytics
-              Data Importing & Cleaning
-              Data Manipulation and Visualization
-              Exploratory Analysis
-              Statistical Experimentation" </p>
+    content: |-
+      Graduate Student| University of Washington| Information systems.
+      <br>
+      "I want to help others make right, data-driven decisions”
+      <br>
+     "Take a look into some of the things I love working on:
+       -Data/Business Analytics
+       -Data Importing & Cleaning
+       -Data Manipulation and Visualization
+       -Exploratory Analysis
+       -Statistical Experimentation" 
               
     image: /images/5C216F0C-817D-4AA6-A9E7-20D82825A80B.JPG
 
@@ -159,65 +160,51 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Business Analyst"
+        company: "Airsea Forwarders India Pvt Ltd"
+        companyUrl: "http://airseaindia.com/"
+        date: "June 2019 – Jan 2022"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "http://freightcube.in/"
+        content: |
+          - Developed ERP for AirSea Forwarders in collaboration with freightcube.
+          - Primarily used as workflow system which created target tasks/jobs that streamlined all the logistics duties.Reduced the manual work load by 40%.
+          - Applied analytic methods and tools to predict and control logistic operations."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Web Development & Digital Marketing Intern"
+        company: "Outlife Outbound Training Pvt Ltd"
+        companyUrl: "https://www.outlife.in/"
+        date: "Apr 2018 – July 201"
         featuredLink:
-          enable: true
-          url: "https://example.com"
+           enable: False
+          url: "https://www.outlife.in/"
         info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          enable: False
+          #content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          
+          - Monitor and administer web analytics dashboards, SEO reports, and key reporting tools, and point out key areas of importance using Google analytics in accordance with client goals.
+          - Analyze marketing trends & tracking competitor’s activities, providing inputs for product enhancement and fine-tuning sales & marketing strategies. 
+          - Initiated Marketing Campaigns using Google Adwords to escalate sales while incurring the lowest acquisition cost, which led to an increase in consumer engagement by 82%.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+     # - job: "Web Development & Digital Marketing Intern"
+       # company: "Outlife Outbound Training Pvt Ltd"
+        #companyUrl: "https://www.outlife.in/"
+        #date: "Apr 2018 – July 2018"
+        #info:
+         # enable: false
+        #featuredLink:
+         # enable: true
+          #url: "https://example.com"
+        #content: |
+         # I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+         # - Lead backend developer for a product.
+         # - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
@@ -225,61 +212,63 @@ params:
     # title: "Custom Name"
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Science In Information Systems"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Washington, Seattle"
+          url: "https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/"
+        date: "2022 - 2023"
+        GPA: "3.89 out of 4.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          Courses
+            - Business Data Analysis
+            - Business Decision Models
+            - Advanced Database Systems and Data Warehouses
+            - Business Process Management
+     # - title: "Bachelor of Science in Computer Science"
+     #   school:
+     #     name: "Massachusetts Institute of Technology"
+     #     url: "https://example.org"
+     #   date: "2009 - 2013"
+     #   GPA: "3.9 out of 5.0"
+     #   content: |-
+     #     I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+     #     - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+     #     - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+     #     Extracurricular Activities
+     #       - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+     #       - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+     #  featuredLink:
+     #     enable: true
+     #    name: "My academic record"
+     #     url: "https://example.com"
+     #- title: "High School"
+     #   school:
+     #    name: "Thomas Jefferson High School for Science and Technology."
+     #    url: "https://example.org"
+     #   GPA: "4.2 out of 5.0"
+     #  featuredLink:
+     #    enable: true
+     #     url: "https://example.com"
 
   # Achievements
-  achievements:
-    enable: False
+  #achievements:
+  #  enable: False
     # title: "Custom Name"
-    items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+  #  items:
+  #    - title: Google kickstart runner
+  #      content: I solved all problems with optimal solution.
+  #      url: https://example.com
+  #    - title: Facebook Hackathon Winner
+  #      content: Developed a product using Artificial Intelligence.
+  #    - title: Hugo Profile
+  #     content: Developed a theme and getting 1K+ downloads per month.
+  #      url: "https://github.com/gurusabarish/hugo-profile"
+  #    - title: Microsoft Imagine Runner
+  #      content: We are developed a product which can help others.
+  #    - title: Google Summer of Code
+  #      content: Contributed to a open source project.
+  #      url: https://example.com
 
   # projects
   projects:
