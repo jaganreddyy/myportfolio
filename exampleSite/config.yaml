@@ -105,7 +105,7 @@ params:
     intro: "Hi, I am"
     title: "Jagan Reddy"
     subtitle: "I tell stories through Data. "
-    content: "Graduate Student| University of Washington - Foster school of Business| Information systems.<br>"
+    content: "Graduate Student| University of Washington - Foster school of Business| Information systems."<br>
     image: /images/5C216F0C-817D-4AA6-A9E7-20D82825A80B.JPG
 
     button:
